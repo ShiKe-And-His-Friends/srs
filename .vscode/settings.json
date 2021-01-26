@@ -17,6 +17,7 @@
         "algorithm": "cpp",
         "xutility": "cpp",
         "iosfwd": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iterator": "cpp"
     }
 }
